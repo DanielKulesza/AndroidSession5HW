@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidSession5HW</string>
+    <string name="phone_portrait">Phone Portrait</string>
+    <string name="phone_landscape">Phone Landscape</string>
+    <string name="tablet_portrait">Tablet Portrait</string>
+    <string name="tablet_landscape">Tablet Landscape</string>
+</resources>
